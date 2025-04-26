@@ -23,3 +23,12 @@ https://live.izbds.com/tv/iptv6.txt
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
 http://175.178.251.183:6689/live.txt
 https://cdn.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u
+https://lqtv.github.io/m3u/tv.m3u
+https://lqtv.github.io/m3u/tv1.m3u
+https://lqtv.github.io/m3u/lqtv.m3u
+https://live.kilvn.com/iptv.m3u
+https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://iptv-org.github.io/iptv/index.m3u
+https://tv.iill.top/m3u/Gather
+https://tv.iill.top/m3u/MyTV
+https://tv.iill.top/m3u/Live
