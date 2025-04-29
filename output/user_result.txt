@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-28 06:50:40,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-04-30 07:07:37,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -12,7 +12,7 @@ CCTV-1,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$订阅源
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源
 CCTV-1,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8$订阅源
-CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$订阅源
+CCTV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000023315
 CCTV-2,http://goo.bkpcp.top/mg/CCTV2$订阅源
 CCTV-2,http://yc.myds.me:35455/itv/1000000001000023315.m3u8?cdn=ystenlive$订阅源
 CCTV-2,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221225588/index.m3u8$订阅源
@@ -22,7 +22,7 @@ CCTV-2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8$订阅源
 CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$订阅源
 CCTV-2,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3$订阅源
-CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源
+CCTV-3,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000011218
 CCTV-3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND$订阅源
 CCTV-3,http://yc.myds.me:35455/itv/1000000005000265003.m3u8?cdn=ystenlive$订阅源
 CCTV-3,http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8$订阅源
@@ -32,7 +32,7 @@ CCTV-3,http://nas.suntao.online:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8$订阅源
 CCTV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$订阅源
 CCTV-3,http://13937899.xyz:35455/gaoma/cctv3.m3u8$订阅源
-CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000$订阅源
+CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000031664
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际$订阅源
 CCTV-4,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2$订阅源
 CCTV-4,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源
@@ -42,7 +42,7 @@ CCTV-4,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888
 CCTV-4,http://nas.suntao.online:35455/itv/1000000005000265004.m3u8?cdn=ystenlive$订阅源
 CCTV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8$订阅源
 CCTV-4,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3$订阅源
-CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$订阅源
+CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265005
 CCTV-5,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND$订阅源
 CCTV-5,http://yc.myds.me:35455/itv/1000000005000025222.m3u8?cdn=ystenlive$订阅源
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903$订阅源
@@ -52,7 +52,7 @@ CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$订阅源
 CCTV-5,http://nas.suntao.online:35455/itv/1000000005000025222.m3u8?cdn=ystenlive$订阅源
 CCTV-5,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000025222/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3$订阅源
 CCTV-5,http://www.freetv.top/migu/641886683.m3u8?migutoken=cea30189b17e30fb3b4876609eb6e3128f840f8ab5db6f9643403213dc9980613938be69b13fe0290d2c44f0052b78d90c669a2f92e28951f92da861b7cba070b55ec1b4fe1a92a2c133c43c4c$订阅源
-CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$订阅源
+CCTV-5+,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000018504
 CCTV-5+,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源
 CCTV-5+,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive$订阅源
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2$订阅源
@@ -62,7 +62,7 @@ CCTV-5+,http://nas.suntao.online:35455/itv/1000000005000265016.m3u8?cdn=ystenliv
 CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8$订阅源
 CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3$订阅源
 CCTV-5+,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$订阅源
-CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010$订阅源
+CCTV-6,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000016466
 CCTV-6,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex56LEwufYqPdJkUNYhbNCw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOH2PzEhAK60LI_FWtVxfVS%2CEND$订阅源
 CCTV-6,http://yc.myds.me:35455/itv/1000000001000001737.m3u8?cdn=ystenlive$订阅源
 CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源
@@ -72,7 +72,7 @@ CCTV-6,http://13937899.xyz:35455/gaoma/cctv6.m3u8$订阅源
 CCTV-6,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3$订阅源
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=ee6c3d925888b2938ca61a2c94d84986ff15ec0fedd3e1e35bcf4ffada20fbeead007033b33efc350632bb959d9bee9da36bac91ec304513f63032fb12e8f570416fc533ede1c4ef94197eb07c$订阅源
 CCTV-6,http://www.freetv.top/migu/624878396.m3u8?migutoken=3adcad950884d4ecc6c6967edee9c162189a1e09480eb5c29b369864aeedaed43c3f951d7eb6c32d86baac49792aacb3264b8f074e746477064fd7b1f172f00a9d84373825617d4366e8c54f0c$订阅源
-CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733$订阅源
+CCTV-7,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000024341
 CCTV-7,http://goo.bkpcp.top/mg/CCTV7$订阅源
 CCTV-7,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EutDC7HLJc_gC0YdIDr7oig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPOHuulzlCcw92vP3vgYa4n%2CEND$订阅源
 CCTV-7,http://yc.myds.me:35455/itv/1000000001000024341.m3u8?cdn=ystenlive$订阅源
@@ -82,7 +82,7 @@ CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8$
 CCTV-7,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000024341/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3$订阅源
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=44446ab398991313e6a822efdaec82f3b845a2e8f141c172aa857c477255724bbb28fc01d33f764c51106c446af1c57e8815b58822075b194f4cf55cde28fe55f54330d4586c92e75e8aa50a48$订阅源
 CCTV-7,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8$订阅源
-CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008$订阅源
+CCTV-8,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000003736
 CCTV-8,http://goo.bkpcp.top/mg/cctv8$订阅源
 CCTV-8,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EO_1NY-UghfdG_S28Bf_FPw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO1anuaDcpMt0_BMig72trX%2CEND$订阅源
 CCTV-8,http://yc.myds.me:35455/itv/1000000005000265008.m3u8?cdn=ystenlive$订阅源
@@ -92,7 +92,7 @@ CCTV-8,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u
 CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8$订阅源
 CCTV-8,http://zjzcf.synology.me:35455/gaoma/cctv8.m3u8$订阅源
 CCTV-8,http://nas.suntao.online:35455/itv/1000000005000265008.m3u8?cdn=ystenlive$订阅源
-CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源
+CCTV-9,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000014583
 CCTV-9,http://yc.myds.me:35455/itv/1000000001000014583.m3u8?cdn=ystenlive$订阅源
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e$订阅源
 CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225734/index.m3u8$订阅源
@@ -112,7 +112,7 @@ CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8$订阅源
 CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$订阅源
 CCTV-10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls$订阅源
 CCTV-10,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000023734/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3$订阅源
-CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565$订阅源
+CCTV-11,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000019789
 CCTV-11,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源
 CCTV-11,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eqfhzy1ZrFZrYrATDOB991A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOu522yjh6D1Z_dApuOt9eE%2CEND$订阅源
 CCTV-11,http://yc.myds.me:35455/itv/1000000005000265011.m3u8?cdn=ystenlive$订阅源
@@ -122,7 +122,7 @@ CCTV-11,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265011/1
 CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=0960d7e074be53abeacd988e7daaca6d1477b1f255f98a01c33c7adf74ac246fe65a23451c3cff9b1203a6285cec778b6d488bd805e9d2433abe3ca23eb24e4f2a5f36bba821773558e1dec231$订阅源
 CCTV-11,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8$订阅源
 CCTV-11,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000508$订阅源
-CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731$订阅源
+CCTV-12,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000032494
 CCTV-12,http://z.b.bkpcp.top/m.php?id=CCTV-12社会与法社会与法$订阅源
 CCTV-12,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2knJCFLHz_HqfBZXNGeA1A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIlZ5z7o_ym15iMooogSvj%2CEND$订阅源
 CCTV-12,http://yc.myds.me:35455/itv/1000000001000032494.m3u8?cdn=ystenlive$订阅源
@@ -143,7 +143,7 @@ CCTV-13,http://yc.myds.me:35455/itv/5000000011000031108.m3u8?cdn=bestzb$订阅�
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd00df9b327912af3611ba95f89235e7020821668a2b6dc65ccc3904967da59d0a9742565c56ea582baf8915d068035054818ef0f369dab64705a6a7f7120529ec$订阅源
 CCTV-13,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226011/index.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
-CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732$订阅源
+CCTV-14,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000008170
 CCTV-14,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_UgKg-_uoDiTW1MNHptPg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLabf3bHEXv4444iiOs_Px%2CEND$订阅源
 CCTV-14,http://yc.myds.me:35455/itv/1000000001000008170.m3u8?cdn=ystenlive$订阅源
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0$订阅源
@@ -162,7 +162,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/8888
 CCTV-15,http://nas.suntao.online:35455/itv/1000000005000265014.m3u8?cdn=ystenlive$订阅源
 CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$订阅源
 CCTV-15,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3$订阅源
-CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000$订阅源
+CCTV-16,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000233001
 CCTV-16,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND$订阅源
 CCTV-16,http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8$订阅源
 CCTV-16,http://yc.myds.me:35455/itv/1000000006000233002.m3u8?cdn=ystenlive$订阅源
@@ -172,7 +172,7 @@ CCTV-16,http://nas.suntao.online:35455/itv/1000000006000233002.m3u8?cdn=ystenliv
 CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$订阅源
 CCTV-16,http://13937899.xyz:35455/gaoma/cctv16.m3u8$订阅源
 CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls$订阅源
-CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源
+CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000056836
 CCTV-17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND$订阅源
 CCTV-17,http://yc.myds.me:35455/itv/1000000006000268004.m3u8?cdn=ystenlive$订阅源
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源
@@ -602,8 +602,8 @@ CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d8
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt$订阅源
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$订阅源
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8$订阅源
-CHC家庭影院,http://api2.52tb.xyz/info?id=220&token=20230218jsyklh$订阅源
 CHC家庭影院,http://api3.52tb.xyz/info?id=220&token=20221127jxwhhemby$订阅源
+CHC家庭影院,http://api2.52tb.xyz/info?id=220&token=20230218jsyklh$订阅源
 CHC家庭影院,rtsp://115.153.212.72/PLTV/88888888/224/3221226959/86128800.smil$订阅源
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy CCTV1 综合$订阅源
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy$订阅源
@@ -614,9 +614,9 @@ CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f368602447269195
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2$订阅源
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8$订阅源
-CHC动作电影,http://api2.52tb.xyz/info?id=219&token=20230218jsyklh$订阅源
-CHC高清电影,http://api2.52tb.xyz/info?id=221&token=20230218qkyjia$订阅源
+CHC动作电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby$订阅源
 CHC高清电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby$订阅源
+CHC高清电影,http://api2.52tb.xyz/info?id=221&token=20230218qkyjia$订阅源
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil$订阅源
@@ -676,7 +676,6 @@ IPTV经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht$订阅�
 哈哈炫动,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?$订阅源
 哈哈炫动,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227025/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7RoPnbSvRPd3KyTpQ76WpA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源
 哈哈炫动,http://nas.suntao.online:35455/itv/5000000011000031123.m3u8?cdn=bestzb$订阅源
-哈哈炫动,http://139.196.214.238/rtp/239.45.1.55:5140$组播源
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil$订阅源
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil$订阅源
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil$订阅源
@@ -694,10 +693,10 @@ IPTV经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht$订阅�
 动漫秀场,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?$订阅源
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8$订阅源
 动漫秀场,http://61.133.118.228:5001/douyu/9548279$订阅源
-动漫秀场,http://139.196.214.238/rtp/239.45.3.134:5140$组播源
 动漫秀场,rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil$订阅源
 动漫秀场,rtsp://115.153.254.81/PLTV/88888888/224/3221225613/iptv7997.smil$订阅源
 动漫秀场,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225613/iptv7997.smil$订阅源
+动漫秀场,rtsp://115.153.212.72/PLTV/88888888/224/3221225613/iptv7997.smil$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil$订阅源
@@ -736,8 +735,8 @@ CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A489898
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8$订阅源
 黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8$订阅源
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$订阅源
-黑莓动画,http://api2.52tb.xyz/info?id=173&token=20230218qkyjia$订阅源
 黑莓动画,http://api3.52tb.xyz/info?id=173&token=20221127jxwhhemby$订阅源
+黑莓动画,http://api2.52tb.xyz/info?id=173&token=20230218qkyjia$订阅源
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil$订阅源
 炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil$订阅源
 炫动卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil$订阅源
@@ -784,15 +783,15 @@ CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A489898
 天龙八部,http://www.clmy.cc:35455/yy/1355067965$订阅源
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
 天龙八部,http://cfss.cc/api/yy/1351814644.m3u8$订阅源
-天龙八部,http://1.94.31.214:35455/huya/23903123$订阅源
 天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4$订阅源
+天龙八部,http://1.94.31.214:35455/huya/23903123$订阅源
 天龙八部,http://61.133.118.228:5001/yy/1351814644$订阅源
 鹿鼎记,http://luobo.bkpcp.top/yy/1382704650$订阅源
 鹿鼎记,http://1.94.31.214:35455/yy/28265277$订阅源
 鹿鼎记,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8$订阅源
 仙剑奇侠传,http://1.94.31.214:35455/yy/1382749903$订阅源
-西游记,http://1.94.31.214:35455/huya/26355861$订阅源
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8$订阅源
+西游记,http://1.94.31.214:35455/huya/26355861$订阅源
 三国演义,https://live.iill.top/huya/11602081$订阅源
 三国演义,http://1.94.31.214:35455/huya/11602081$订阅源
 三国演义,http://zzy789.xyz/bili.php?id=27501731$订阅源
