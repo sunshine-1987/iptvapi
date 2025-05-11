@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-10 06:53:01,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-05-12 06:52:19,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -808,7 +808,7 @@ CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A489898
 封神榜,http://61.133.118.228:5001/yy/1353426319$订阅源
 上海滩,http://luobo.bkpcp.top/yy/1382745184$订阅源
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4$订阅源
-上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8$订阅源
 上海滩,http://61.133.118.228:5001/yy/1382745184$订阅源
+上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8$订阅源
 射雕英雄传,http://cfss.cc/api/yy/1354210357.m3u8$订阅源
 射雕英雄传,http://1.94.31.214:35455/huya/23824164$订阅源
